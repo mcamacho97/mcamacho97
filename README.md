@@ -34,6 +34,7 @@ Over the last several years, I have worked across software development, cloud in
 * IAM
 * VPC
 * CloudWatch
+* Packer
 
 ### DevOps & Automation
 
